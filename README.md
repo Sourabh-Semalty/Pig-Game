@@ -1,6 +1,4 @@
-# ---------------Pig Game---------------
-
-# One of the best game in the starting that I have Build
+One of the best game in the starting that I have Build
 
 # Pig Game
 
@@ -10,4 +8,4 @@
 
 # To play game
 
-    - [Start Pig game](https://sourabh-semalty.github.io/Pig-Game/)
+[Start Pig game](https://sourabh-semalty.github.io/Pig-Game/)
